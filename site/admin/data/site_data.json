@@ -1,0 +1,180 @@
+{
+    "stats": {
+        "services_executed": 3750,
+        "satisfied_clients": 1450,
+        "years_experience": 10
+    },
+    "services": {
+        "computers": {
+            "title": "Manuten\u00e7\u00e3o de Computadores",
+            "description": "Nossa equipe especializada realiza manuten\u00e7\u00e3o preventiva e corretiva em computadores, notebooks e todo tipo de equipamento de inform\u00e1tica. Resolvemos problemas de hardware e software, realizamos formata\u00e7\u00e3o, backup de dados, remo\u00e7\u00e3o de v\u00edrus e instala\u00e7\u00e3o de programas.",
+            "image": "\/fotos\/manupc2.jpeg",
+            "features": [
+                "Manuten\u00e7\u00e3o preventiva",
+                "Manuten\u00e7\u00e3o corretiva",
+                "Remo\u00e7\u00e3o de v\u00edrus e malwares",
+                "Formata\u00e7\u00e3o e instala\u00e7\u00e3o de sistemas",
+                "Upgrade de hardware",
+                "Recupera\u00e7\u00e3o de dados"
+            ]
+        },
+        "servers": {
+            "title": "Manuten\u00e7\u00e3o de Servidores",
+            "description": "Oferecemos solu\u00e7\u00f5es completas para servidores, desde a instala\u00e7\u00e3o at\u00e9 a manuten\u00e7\u00e3o. Configuramos e gerenciamos servidores f\u00edsicos e virtuais, garantindo alta disponibilidade, seguran\u00e7a e desempenho para sua empresa.",
+            "image": "\/fotos\/serv.jpeg",
+            "features": [
+                "Instala\u00e7\u00e3o e configura\u00e7\u00e3o",
+                "Virtualiza\u00e7\u00e3o",
+                "Backup e recupera\u00e7\u00e3o de desastres",
+                "Seguran\u00e7a e firewall",
+                "Monitoramento 24\/7",
+                "Suporte emergencial"
+            ]
+        },
+        "starlink": {
+            "title": "Instala\u00e7\u00e3o de Starlink",
+            "description": "Somos especialistas na instala\u00e7\u00e3o de internet Starlink, levando conex\u00e3o de alta velocidade e baixa lat\u00eancia mesmo para locais remotos. Realizamos todo o processo de configura\u00e7\u00e3o, montagem e otimiza\u00e7\u00e3o do sistema.",
+            "image": "\/fotos\/starlink.jpg",
+            "features": [
+                "An\u00e1lise do melhor local de instala\u00e7\u00e3o",
+                "Montagem do equipamento",
+                "Configura\u00e7\u00e3o da rede",
+                "Testes de velocidade e lat\u00eancia",
+                "Suporte p\u00f3s-instala\u00e7\u00e3o",
+                "Manuten\u00e7\u00e3o preventiva"
+            ]
+        },
+        "cftv": {
+            "title": "Instala\u00e7\u00e3o de CFTV",
+            "description": "Projeto e instala\u00e7\u00e3o de sistemas de Circuito Fechado de Televis\u00e3o (CFTV) para seguran\u00e7a residencial e empresarial. Trabalhos com equipamentos de \u00faltima gera\u00e7\u00e3o que garantem monitoramento eficiente e confi\u00e1vel.",
+            "image": "\/fotos\/cftv.jpg",
+            "features": [
+                "Projeto personalizado",
+                "Instala\u00e7\u00e3o profissional",
+                "Configura\u00e7\u00e3o de DVR\/NVR",
+                "Acesso remoto via celular",
+                "Infraestrutura de rede",
+                "Manuten\u00e7\u00e3o peri\u00f3dica"
+            ]
+        },
+        "consulting": {
+            "title": "Consultoria em TI",
+            "description": "Oferecemos consultoria especializada para empresas que querem optimizar sua infraestrutura de TI. Elaboramos planos de transforma\u00e7\u00e3o digital, seguran\u00e7a da informa\u00e7\u00e3o e adequa\u00e7\u00e3o tecnol\u00f3gica para sua empresa crescer com seguran\u00e7a.",
+            "image": "\/fotos\/grafico-photoroom.png",
+            "features": [
+                "An\u00e1lise da infraestrutura atual",
+                "Planejamento estrat\u00e9gico de TI",
+                "Implementa\u00e7\u00e3o de solu\u00e7\u00f5es",
+                "Seguran\u00e7a da informa\u00e7\u00e3o",
+                "Gest\u00e3o de projetos de TI",
+                "Treinamento de equipes"
+            ]
+        }
+    },
+    "why_choose_us": [
+        {
+            "title": "Equipe Especializada",
+            "description": "Nossos t\u00e9cnicos s\u00e3o certificados e passam por treinamentos constantes para oferecer o melhor atendimento.",
+            "icon": "fas fa-users-cog"
+        },
+        {
+            "title": "Equipamentos Modernos",
+            "description": "Utilizamos ferramentas e equipamentos de \u00faltima gera\u00e7\u00e3o para diagn\u00f3sticos precisos e reparos eficientes.",
+            "icon": "fas fa-tools"
+        },
+        {
+            "title": "Agilidade",
+            "description": "Atendimento r\u00e1pido e resolutivo, minimizando o tempo de inatividade dos seus sistemas.",
+            "icon": "fas fa-bolt"
+        },
+        {
+            "title": "Seguran\u00e7a",
+            "description": "Seus dados est\u00e3o seguros conosco. Seguimos rigorosos protocolos de seguran\u00e7a e confidencialidade.",
+            "icon": "fas fa-shield-alt"
+        },
+        {
+            "title": "Compromisso",
+            "description": "Cumprimos prazos e or\u00e7amentos, sem surpresas ou custos adicionais durante o servi\u00e7o.",
+            "icon": "fas fa-handshake"
+        },
+        {
+            "title": "Suporte Cont\u00ednuo",
+            "description": "Oferecemos suporte t\u00e9cnico mesmo ap\u00f3s a conclus\u00e3o dos servi\u00e7os, garantindo sua satisfa\u00e7\u00e3o.",
+            "icon": "fas fa-headset"
+        }
+    ],
+    "about": {
+        "image": "\/fotos\/logo.png",
+        "title": "Sobre a <span class=\"highlight\">UP Solu\u00e7\u00f5es<\/span>",
+        "subtitle": "Conhe\u00e7a nossa hist\u00f3ria e valores",
+        "description": [
+            "A UP Solu\u00e7\u00f5es em Tecnologia nasceu da paix\u00e3o por resolver problemas e da busca constante por excel\u00eancia t\u00e9cnica. Fundada h\u00e1 10 anos, nossa empresa se especializou em oferecer solu\u00e7\u00f5es tecnol\u00f3gicas completas para empresas de todos os portes.",
+            "Com um time de profissionais altamente qualificados e comprometidos, conquistamos a confian\u00e7a de nossos clientes atrav\u00e9s de servi\u00e7os de qualidade, atendimento personalizado e respostas r\u00e1pidas \u00e0s necessidades do mercado."
+        ],
+        "values": [
+            {
+                "title": "Miss\u00e3o",
+                "description": "Oferecer solu\u00e7\u00f5es tecnol\u00f3gicas inovadoras que impulsionem o crescimento dos nossos clientes.",
+                "icon": "fas fa-star"
+            },
+            {
+                "title": "Vis\u00e3o",
+                "description": "Ser refer\u00eancia nacional em solu\u00e7\u00f5es tecnol\u00f3gicas, reconhecida pela excel\u00eancia e inova\u00e7\u00e3o.",
+                "icon": "fas fa-eye"
+            },
+            {
+                "title": "Valores",
+                "description": "Comprometimento, \u00e9tica, excel\u00eancia t\u00e9cnica, inova\u00e7\u00e3o e foco no cliente.",
+                "icon": "fas fa-heart"
+            }
+        ]
+    },
+    "process": [
+        {
+            "number": "01",
+            "title": "Diagn\u00f3stico Inicial",
+            "description": "Realizamos uma an\u00e1lise detalhada das suas necessidades para entender exatamente quais s\u00e3o os desafios a serem superados.",
+            "icon": "fas fa-comments"
+        },
+        {
+            "number": "02",
+            "title": "Proposta Personalizada",
+            "description": "Desenvolvemos um plano de a\u00e7\u00e3o sob medida, com or\u00e7amento transparente e cronograma definido para seu projeto.",
+            "icon": "fas fa-file-contract"
+        },
+        {
+            "number": "03",
+            "title": "Implementa\u00e7\u00e3o",
+            "description": "Nossa equipe executa as solu\u00e7\u00f5es planejadas com precis\u00e3o t\u00e9cnica e m\u00ednima interfer\u00eancia na sua opera\u00e7\u00e3o di\u00e1ria.",
+            "icon": "fas fa-cogs"
+        },
+        {
+            "number": "04",
+            "title": "Testes e Valida\u00e7\u00e3o",
+            "description": "Realizamos testes rigorosos para garantir que tudo funcione perfeitamente antes de finalizar o projeto.",
+            "icon": "fas fa-clipboard-check"
+        },
+        {
+            "number": "05",
+            "title": "Treinamento",
+            "description": "Capacitamos sua equipe para utilizar as novas solu\u00e7\u00f5es de forma eficiente, maximizando o investimento realizado.",
+            "icon": "fas fa-graduation-cap"
+        },
+        {
+            "number": "06",
+            "title": "Suporte Cont\u00ednuo",
+            "description": "Mantemos um relacionamento de longo prazo, oferecendo suporte t\u00e9cnico e manuten\u00e7\u00e3o para garantir a continuidade dos servi\u00e7os.",
+            "icon": "fas fa-headset"
+        }
+    ],
+    "contact": {
+        "address": "R. Francisco Derosso, 1615 - Sala 09<br>Xaxim, Curitiba - PR, 81710-000",
+        "phone": "(41) 98465-0960",
+        "email": "upnotebook@gmail.com",
+        "hours": [
+            "Segunda \u00e0 Sexta: 8h \u00e0s 17h",
+            "S\u00e1bado e Domingo: Fechado"
+        ],
+        "map_embed": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3600.7838296539244!2d-49.27013742374837!3d-25.50557623670282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcfb2a5f2ac06d%3A0x4e3c7c8d28f8241c!2sR.%20Francisco%20Derosso%2C%201615%20-%20Xaxim%2C%20Curitiba%20-%20PR%2C%2081710-000!5e0!3m2!1spt-BR!2sbr!4v1711466583518!5m2!1spt-BR!2sbr"
+    }
+}
